@@ -28,6 +28,18 @@ body {
   line-height: 1.1rem;
 }
 
+ul {
+  list-style-type: none;
+  padding-top: .25em;
+}
+li {
+  padding-top: .25em;
+}
+
+//.fa-ul {
+//  padding-top: 1em;
+//}
+
 .navbar-item {
   line-height: 1.2rem;
   font-size: 1.3rem;

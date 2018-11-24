@@ -11,7 +11,7 @@
 
     <div class="container" id="app">
 
-        <section class="content">
+        <section >
 
             <div class="box">
                 <p>
@@ -30,18 +30,20 @@
                     </li>
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Barrier-free accessibility.</li>
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Parking for approximately 80 cars.</li>
+                    <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Hall capacity is 180 people.</li>
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>Tables and seating for up to 160 people.
                         <ul class="fa-ul">
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Twenty 60 in. round tables, seat 8</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Two 8 ft. rectangular tables, 84 in. by 30 in.</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Four 6 ft. rectangular tables, 72 in. by 30 in.</li>
+                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Two 2 ft. rectangular tables.</li>
                         </ul>
                     </li>
-                    <li><span class="fa-li"><i class="fas fa-check-square"></i></span>New kitchen, perfect for catered meals, even for large groups.
+                    <li><span class="fa-li"><i class="fas fa-check-square"></i></span>A warming kitchen, perfect for catered meals, even for large groups.
                         <ul class="fa-ul">
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Electric stove and two microwave ovens</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Refrigerator for food storage</li>
-                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Dishwasher with 30 minute cycle</li>
+                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Commercial dishwasher with 2 minute cycle</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Coffee makers: 1 80 cup capacity, 2 30 cup capacity</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Ceramic dinner and desert plates, glasses, silverware for 160</li>
                         </ul>

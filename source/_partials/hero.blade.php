@@ -27,6 +27,6 @@
 
     </div>
     {{--<div class="credit">Image by <a href='http://greenhollyweddings.com' target='_blank'>Green Holly Weddings</a></div>--}}
-    <div class="credit">{!! $credit ?? '' !!}</a></div>
+    <div class="credit">{!! $credit ?? '' !!}</div>
 
 </section>
