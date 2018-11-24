@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+
+
+
+$info: #d7944d;
+$link: darken($info, 20%);
+$navbar-item-color: #fff;
+$navbar-item-hover-color: #ffecb2;
+$navbar-item-hover-background-color: transparent;
+$navbar-item-active-color: #f00;
+$navbar-item-active-background-color: #0f0;
+
+@import "../../../node_modules/bulma/bulma";
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Crimson Text", serif, serif;
+}
+
+body {
+  font-size: 1.1rem;
+  line-height: 1.1rem;
+}
+
+.navbar-item {
+  line-height: 1.2rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  background: rgba(245, 245, 245, 0.3);
+}
+
+.navbar-item img {
+  max-height: 3.75rem;
+}
+
+@media screen and (max-width: 1087px) {
+  .navbar-menu {
+    background-color: transparent;
+    -webkit-box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
+    box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
+    padding: 0.5rem 0;
+  }
+}
+
+.hero-concourse {
+  @extend .hero;
+  background-image: url('https://assets.aactmad.org/concourse/images/concourse.hall.hero.jpg');
+  //background-image: url('https://assets.aactmad.org/concourse/images/Nov2014_Tree_Town_Stomp_1455.jpg');
+  //background-image: url('https://assets.aactmad.org/concourse/images/ConcourseDanceFloor.jpg');
+  //background-image: url('https://assets.aactmad.org/concourse/images/IMG_1015a-M.jpg');
+  background-size: cover;
+  //background-position: center center;
+}
+
+.hero-body {
+  padding: 0.5rem 1rem;
+  margin: 3rem auto;
+}
+
+.box-concourse {
+  @extend .box;
+  width: fit-content;
+  opacity: 0.6;
+}
+
+.credit {
+  display: inline-block;
+  position: relative;
+  bottom: 1em;
+  left: 1em;
+  background-color: $info;
+  padding: 3px 3px;
+  width: fit-content;
+}
+
+@import "slider";
+
+
