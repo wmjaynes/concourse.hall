@@ -36,7 +36,7 @@
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Twenty 60 in. round tables, seat 8</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Two 8 ft. rectangular tables, 84 in. by 30 in.</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Four 6 ft. rectangular tables, 72 in. by 30 in.</li>
-                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Two 2 ft. rectangular tables.</li>
+                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Two 4 ft. rectangular tables.</li>
                         </ul>
                     </li>
                     <li><span class="fa-li"><i class="fas fa-check-square"></i></span>A warming kitchen, perfect for catered meals, even for large groups.
