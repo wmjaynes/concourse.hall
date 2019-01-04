@@ -10,6 +10,7 @@
         /*background-image: url('https://assets.aactmad.org/concourse/images/Nov2014_Tree_Town_Stomp_1455.jpg');*/
         background-image: url('{{ $image ?? '' }}');
         background-size: cover;
+        background-position:center center;
     }
 </style>
 

@@ -31,10 +31,16 @@
 
         <div class="slider-container">
             <div class="my-slider">
-                {{--<tiny-slider :autoplay="true" :controls="false" :nav="true" items="1" gutter="20">--}}
                 <div>
                     <figure class="image">
-                        <img src="https://assets.aactmad.org/concourse/images/ConcourseDanceFloor.jpg"/>
+                        <img src="https://assets.aactmad.org/concourse/images/Pano - Concourse Hall - 31Decil2018-3828.jpg"/>
+                        <figcaption class="credit">Image by Don Theyken</figcaption>
+                    </figure>
+                </div>
+                <div>
+                    <figure class="image">
+                        <img src="https://assets.aactmad.org/concourse/images/concourse.pat.png"/>
+                        <figcaption class="credit">Image by Pat Micks</figcaption>
                     </figure>
                 </div>
                 <div>
@@ -69,6 +75,12 @@
                         <figcaption class="credit">Image by Margaret Loomis</figcaption>
                     </figure>
                 </div>
+                div>
+                <figure class="image">
+                    <img src="https://assets.aactmad.org/concourse/images/Concourse Hall - Kitchen - 31Dec2018-3818.jpg"/>
+                    <figcaption class="credit">Image by Don Theyken</figcaption>
+                </figure>
+            </div>
                 {{--</tiny-slider>--}}
             </div>
         </div>

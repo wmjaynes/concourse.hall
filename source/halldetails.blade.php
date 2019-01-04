@@ -1,4 +1,5 @@
-@extends('_layouts.master', ['image' => 'https://assets.aactmad.org/concourse/images/ConcourseDanceFloor.jpg'])
+@extends('_layouts.master', ['image' => 'https://assets.aactmad.org/concourse/images/Pano - Concourse Hall - 31Decil2018-3828.jpg',
+'credit' => 'Image by Don Theyken'])
 
 
 @section('header')

@@ -1,5 +1,5 @@
-@extends('_layouts.master', ['image' => 'https://assets.aactmad.org/concourse/images/IMG_1015a-M.jpg',
-'credit' => 'Image by Margaret Loomis'])
+@extends('_layouts.master', ['image' => 'https://assets.aactmad.org/concourse/images/concourse.pat.png',
+'credit' => 'Image by Pat Micks'])
 
 
 @section('header')
