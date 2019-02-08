@@ -46,7 +46,7 @@
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Refrigerator for food storage</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Commercial dishwasher with 2 minute cycle</li>
                             <li><span class="fa-li"><i class="far fa-check-square"></i></span>Coffee makers: 1 80 cup capacity, 2 30 cup capacity</li>
-                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Ceramic dinner and desert plates, glasses, silverware for 160</li>
+                            <li><span class="fa-li"><i class="far fa-check-square"></i></span>Ceramic dinner and dessert plates, glasses, silverware for 160</li>
                         </ul>
 
                     </li>
